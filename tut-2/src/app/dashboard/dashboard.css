@@ -1,0 +1,28 @@
+.dashboard{
+    width: 100%;
+    background-color: cadetblue;
+    height: 425px;
+}
+
+.container{
+    display: flex;
+    padding: 1rem;
+    gap:1rem;
+}
+
+.container button{
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+.nav-bar{
+    background-color: rgb(112, 247, 238);
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    font-size: 2rem;
+}

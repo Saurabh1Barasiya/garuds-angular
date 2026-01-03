@@ -1,0 +1,13 @@
+<div class="dashboard">
+    <div class="container">
+        <h1>Welcome to dashbaord</h1>
+        <button (click)="logout()">logout</button>
+        <button (click)="admin()">mark admin</button>
+    </div>
+    <nav class="nav-bar">
+        <a routerLink="users">users</a>
+        <a routerLink="admin">admin</a>
+    </nav>
+
+    <router-outlet></router-outlet>
+</div>

@@ -1,0 +1,9 @@
+.admin{
+    background-color: rgb(238, 153, 153);
+    height: 200px;
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    padding: 5rem;
+}

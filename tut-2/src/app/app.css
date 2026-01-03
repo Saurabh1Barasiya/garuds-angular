@@ -1,0 +1,12 @@
+.nav-bar{
+    background-color: aqua;
+    display: flex;
+    gap:1rem;
+    padding: 1rem;  
+}
+
+.nav-bar a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-left: 1.5rem;
+}
