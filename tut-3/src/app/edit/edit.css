@@ -1,0 +1,8 @@
+.edit-container{
+    height:300px;
+    width: 50%;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    background-color: rgba(128, 65, 133, 0.712);
+}
